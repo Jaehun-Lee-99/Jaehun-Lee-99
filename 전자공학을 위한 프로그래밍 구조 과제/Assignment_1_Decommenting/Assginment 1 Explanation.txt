@@ -1,0 +1,15 @@
+Assginment 1 Explanation
+
+[De-commenting]
+
+Given a text file(code), detect comments in the code which come with /* */, //, and so on. 
+Also, print out the error message if the comment is not properly closed. ex) /* ....
+
+You can refer to the below:
+https://www.ndsl.kaist.edu/~kyoungsoo/ee209/assignment/decomment/
+
+한국어 설명
+주어진 코드에서 주석을 판별해내는 과제입니다. /* */,//와 같이 표기되어있는 주석은 코드가 아닌 주석으로 인식하는 코드를 작성했습니다.
+또한 주석을 작성할 때의 문법이 틀렸으면 에러 메세지를 출력하도록 하였습니다.  
+
+ 

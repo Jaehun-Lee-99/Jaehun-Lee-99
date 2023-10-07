@@ -1,0 +1,12 @@
+Assginment 2 Explanation
+
+[String manipulation]
+
+The task is to implement string manipulating functions in string.h such as strlen, strcpy, and strcmp by myself using pointers. It is not allowed to use built-in functions.
+
+You can refer to the below:
+https://www.ndsl.kaist.edu/~kyoungsoo/ee209/assignment/string/
+
+한국어 설명
+
+이 과제는 string.h에 있는 strlen나 strcpy같은 함수들을 직접 구현하는 과제입니다. built in 함수를 사용할 수 없으며, 포인터를 활용해 구현하는 과제입니다.

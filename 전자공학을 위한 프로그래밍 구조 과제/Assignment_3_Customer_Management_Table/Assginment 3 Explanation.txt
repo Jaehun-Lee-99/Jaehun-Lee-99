@@ -1,0 +1,15 @@
+Assginment 3 Explanation
+
+[Customer Management Table]
+
+Customer DB를 가지고 등록과 탈퇴를 하는 것, ID나 이름으로 구매 기록을 가져오는 것 등을 hash table을 이용해서 C언어로 구현하는 과제입니다.
+SQL에서 할 수 있는 작업들을 C언어로 구현해보는 것입니다.
+
+You will implement and improve the customer data management API using various data structures. Your task in this assignment is threefold:
+
+You can refer to the below:
+https://www.ndsl.kaist.edu/~kyoungsoo/ee209/assignment/cm/
+
+[Task 1] Implement an API library for the customer data management, using a dynamcailly resizable array.
+[Task 2] Implement the same API library using a hash table.
+[Task 3] Test the correctness of your two libraries and measure the performance.
